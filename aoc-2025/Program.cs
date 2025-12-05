@@ -15,7 +15,8 @@ class Program
         {
             case "1":
                 D1? day1 = new D1();
-                day1.Solve();
+                day1.Solve1();
+                day1.Solve2();
                 break;
             default:
                 Console.WriteLine($"Solutioon for day {args[0]} not found.");
