@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
+﻿using aoc_2025.d2;
 
 class Program
 {
@@ -17,6 +16,10 @@ class Program
                 D1? day1 = new D1();
                 day1.Solve1();
                 day1.Solve2();
+                break;
+            case "2":
+                D2? day2 = new D2();
+                day2.Solve1();
                 break;
             default:
                 Console.WriteLine($"Solutioon for day {args[0]} not found.");
