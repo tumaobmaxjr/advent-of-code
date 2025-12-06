@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aoc-2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcfdb01b279ba94bafd89d864431cfee4427be36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ca795b2c47128d2b8afa784cec12c482c13115")]
 [assembly: System.Reflection.AssemblyProductAttribute("aoc-2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aoc-2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
